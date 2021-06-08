@@ -2,11 +2,17 @@ com/mf/muslimFriendly/model/Rating.class
 com/mf/muslimFriendly/services/RatingServiceImpl.class
 com/mf/muslimFriendly/repository/RatingRepository.class
 com/mf/muslimFriendly/controller/RatingController.class
+com/mf/muslimFriendly/model/SchoolRatingDTO.class
 com/mf/muslimFriendly/controller/SchoolController.class
 com/mf/muslimFriendly/repository/SchoolRepository.class
+com/mf/muslimFriendly/model/AvgRatingDTO.class
+com/mf/muslimFriendly/services/AvgRatingsServiceImpl.class
 com/mf/muslimFriendly/MuslimFriendlyApplication.class
+com/mf/muslimFriendly/config/MfConfig.class
+com/mf/muslimFriendly/services/AvgRatingsServiceImpl$1.class
 com/mf/muslimFriendly/model/School.class
 com/mf/muslimFriendly/services/SchoolService.class
+com/mf/muslimFriendly/services/AvgRatingsService.class
 com/mf/muslimFriendly/services/SchoolServiceImpl.class
 com/mf/muslimFriendly/exception/ResourceNotFoundException.class
 com/mf/muslimFriendly/services/RatingService.class
